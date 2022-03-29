@@ -1,12 +1,4 @@
-# cse546-project1
-
-Group 31
-
-Group member:
-1. Qiang Fu
-2. Kiran Shanthappa
-3. Sreshta Chowdary Kampally
-
+# Face Recognition as a Service
 
 SQS query names:
   request_queue
